@@ -180,17 +180,17 @@ These findings help highlight workforce patterns and areas that may require furt
 
 **Problem Statement – KPI Requirements:**
 
-![KPI Requirements](images/Requirement(1).png)
-![KPI Requirements](images/Requirement(2).png)
+![HR Analytics Dashboard](images/Requirement1.png)
+![HR Analytics Dashboard](images/Requirement2.png)
 
 **Problem Statement – Chart Requirements:**
 
-![KPI Requirements](images/Requirement(3).png)
+![HR Analytics Dashboard](images/Requirement3.png)
 
 **Overview on DataSet – DataSet:**
 
-![KPI Requirements](images/DataSet(1).png)
-![KPI Requirements](images/DataSet(2).png)
+![HR Analytics Dashboard](images/DataSet1.png)
+![HR Analytics Dashboard](images/DataSet2.png)
 
 ---
 
