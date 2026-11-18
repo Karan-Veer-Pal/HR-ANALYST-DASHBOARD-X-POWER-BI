@@ -180,11 +180,17 @@ These findings help highlight workforce patterns and areas that may require furt
 
 **Problem Statement – KPI Requirements:**
 
-![KPI Requirements](images/KPI_Requirements.png)
+![KPI Requirements](images/Requirement(1).png)
+![KPI Requirements](images/Requirement(2).png)
 
 **Problem Statement – Chart Requirements:**
 
-![Chart Requirements](images/Chart_Requirements.png)
+![KPI Requirements](images/Requirement(3).png)
+
+**Overview on DataSet – DataSet:**
+
+![KPI Requirements](images/DataSet(1).png)
+![KPI Requirements](images/DataSet(2).png)
 
 ---
 
